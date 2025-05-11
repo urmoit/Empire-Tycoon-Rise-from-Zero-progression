@@ -64,16 +64,24 @@
 
 |**Checked**|**Badge Name**|**Play Requirement**|**What You Unlock**|**Prize**|**Description**|
 |-----------|--------------|--------------------|-------------------|---------|---------------|
-|No|Welcome|On First Join|nothing|$500|Welcomes new players with a small bonus and a hidden starter tag.|
-|No|1-Hour Tycoon|Play for 1 Hour|[New Tycoon] Chat Tag|$1,000|Rewards new players for staying an hour with a title and a cash bonus.|
-|No|5-Hour Tycoon|Play for 5 Hours|[Active Tycoon] Chat Tag|$5,000|Encourages mid-term play with a boost and recognition in chat.|
-|No|10-Hour Tycoon|Play for 10 Hours|[Pro Tycoon] Chat Tag|$15,000|Recognizes committed players with a higher-tier tag and bonus.|
-|No|24-Hour Legend|Play for 24 Hours|[Legendary Tycoon] + Special Trail|$50,000|Honors long-term dedication with a trail effect and prestigious tag.|
-|No|50-Hour Maniac|Play for 50 Hours|[Tycoon Maniac] + Exclusive Hat|$100,000|A rare badge for elite grinders, includes a unique wearable cosmetic.|
-|No|Meet the Developer|Interact with Dev In-Game|[Met The Dev] Chat Tag + Effect|$5,000|For special interactions with the dev during events or live visits.|
-|No|Rebirther I|Complete 1st Rebirth|[Fresh Start] Chat Tag|$5,000|For players who restart and progress past their first rebirth.|
-|No|Rebirther II|Complete 2nd Rebirth|[Prestiged Tycoon] Chat Tag|$25,000|Recognition for double rebirthers, showing progress and dedication.|
-|No|Rebirther III|Complete 3rd Rebirth|[Ultimate Tycoon] + Character Skin|$100,000|Grants an exclusive skin and elite tag for advanced tycoon players.|
+|No|Welcome|On First Join|nothing|\$500|Welcomes new players with a small bonus and a hidden starter tag.|
+|No|1-Hour Tycoon|Play for 1 Hour|\[New Tycoon] Chat Tag|\$1,000|Rewards new players for staying an hour with a title and a cash bonus.|
+|No|5-Hour Tycoon|Play for 5 Hours|\[Active Tycoon] Chat Tag|\$5,000|Encourages mid-term play with a boost and recognition in chat.|
+|No|10-Hour Tycoon|Play for 10 Hours|\[Pro Tycoon] Chat Tag|\$15,000|Recognizes committed players with a higher-tier tag and bonus.|
+|No|24-Hour Legend|Play for 24 Hours|\[Legendary Tycoon] + Special Trail|\$50,000|Honors long-term dedication with a trail effect and prestigious tag.|
+|No|50-Hour Maniac|Play for 50 Hours|\[Tycoon Maniac] + Exclusive Hat|\$100,000|A rare badge for elite grinders, includes a unique wearable cosmetic.|
+|No|Meet the Developer|Interact with Dev In-Game|\[Met The Dev] Chat Tag + Effect|\$5,000|For special interactions with the dev during events or live visits.|
+|No|Rebirther I|Complete 1st Rebirth|\[Fresh Start] Chat Tag|\$5,000|For players who restart and progress past their first rebirth.|
+|No|Rebirther II|Complete 2nd Rebirth|\[Prestiged Tycoon] Chat Tag|\$25,000|Recognition for double rebirthers, showing progress and dedication.|
+|No|Rebirther III|Complete 3rd Rebirth|\[Ultimate Tycoon] + Character Skin|\$100,000|Grants an exclusive skin and elite tag for advanced tycoon players.|
+|No|First Purchase|Make the first upgrade purchase|\[Beginner Tycoon] Chat Tag|\$500|Rewards players for making their first purchase, marking the start of their tycoon journey.|
+|No|Money Maker|Earn \$10,000 in total|\[Wealthy Tycoon] Chat Tag|\$1,500|Encourages players to focus on earning money and boosts their early progress.|
+|No|Speed Runner|Complete the tycoon in under 2 hours|\[Fast Tycoon] Chat Tag|\$15,000|Rewards players who complete the game quickly with a prestigious tag and bonus.|
+|No|Millionaire|Earn \$1,000,000 in total|\[Millionaire Tycoon] Chat Tag|\$50,000|Celebrates players who have achieved an impressive level of wealth in the game.|
+|No|Rebirth Master|Complete 5th Rebirth|\[Rebirth Pro] Chat Tag|\$250,000|Recognizes players who have reached an advanced stage of rebirth, rewarding them for persistence.|
+|No|Early Adopter|Join the game within the first week of release|\[Early Tycoon] Chat Tag|\$5,000|For players who joined early, recognizing their loyalty and excitement for the game.|
+|No|Gold Digger| Collect \$10,000,000 in total|\[Gold Tycoon] Chat Tag|\$100,000|Celebrates players who have accumulated an impressive fortune, unlocking a rare badge and cash reward.|
+|No| Master Rebirther|Complete 10th Rebirth|\[Master Tycoon] Chat Tag + Exclusive Skins|\$500,000|A prestigious badge for players who have achieved the ultimate level of rebirth in the game, unlocking exclusive cosmetics.|
 
 ## Phase 5: Chat Tags & Customization
 
