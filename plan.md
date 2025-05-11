@@ -60,35 +60,18 @@
 
 ## Phase 4: Badges & Rewards
 
-- [ ] **Welcome (on join)**  
-  Reward players who join the game with a small bonus (e.g., $500) and a non-visible tag. This is to welcome them and get them started.
-
-- [ ] **1-Hour Tycoon – [New Tycoon]**  
-  Players who play for 1 hour will receive a badge, +$1,000, and the [New Tycoon] tag.
-
-- [ ] **5-Hour Tycoon – [Active Tycoon]**  
-  For playing for 5 hours, players will earn $5,000 and the [Active Tycoon] tag, signaling they’re a committed player.
-
-- [ ] **10-Hour Tycoon – [Pro Tycoon]**  
-  Reward players who spend 10 hours in-game with $15,000 and the [Pro Tycoon] tag.
-
-- [ ] **24-Hour Legend – [Legendary Tycoon]**  
-  After 24 hours of playtime, players will earn $50,000 and unlock a special trail as a badge reward.
-
-- [ ] **50-Hour Maniac – [Tycoon Maniac]**  
-  A special reward for players who reach 50 hours of gameplay. They will receive $100,000 and an exclusive hat.
-
-- [ ] **Meet the Developer – [Met The Dev]**  
-  Players who interact with the developer (via a special event or in-game interaction) will earn $5,000 and an effect tied to the [Met The Dev] tag.
-
-- [ ] **Rebirther I – [Fresh Start]**  
-  After the first rebirth, players get $5,000 and unlock the [Fresh Start] tag.
-
-- [ ] **Rebirther II – [Prestiged Tycoon]**  
-  After the second rebirth, players will earn $25,000 and unlock the [Prestiged Tycoon] tag.
-
-- [ ] **Rebirther III – [Ultimate Tycoon]**  
-  After the third rebirth, players will get $100,000 and unlock an exclusive skin for their character.
+|**Checked**|**Badge Name**|**Play Requirement**|**What You Unlock**|**Prize**|**Description**|
+|-----------|--------------|--------------------|-------------------|---------|---------------|
+|No|Welcome|On First Join|nothing|$500|Welcomes new players with a small bonus and a hidden starter tag.|
+|No|1-Hour Tycoon|Play for 1 Hour|[New Tycoon] Chat Tag|$1,000|Rewards new players for staying an hour with a title and a cash bonus.|
+|No|5-Hour Tycoon|Play for 5 Hours|[Active Tycoon] Chat Tag|$5,000|Encourages mid-term play with a boost and recognition in chat.|
+|No|10-Hour Tycoon|Play for 10 Hours|[Pro Tycoon] Chat Tag|$15,000|Recognizes committed players with a higher-tier tag and bonus.|
+|No|24-Hour Legend|Play for 24 Hours|[Legendary Tycoon] + Special Trail|$50,000|Honors long-term dedication with a trail effect and prestigious tag.|
+|No|50-Hour Maniac|Play for 50 Hours|[Tycoon Maniac] + Exclusive Hat|$100,000|A rare badge for elite grinders, includes a unique wearable cosmetic.|
+|No|Meet the Developer|Interact with Dev In-Game|[Met The Dev] Chat Tag + Effect|$5,000|For special interactions with the dev during events or live visits.|
+|No|Rebirther I|Complete 1st Rebirth|[Fresh Start] Chat Tag|$5,000|For players who restart and progress past their first rebirth.|
+|No|Rebirther II|Complete 2nd Rebirth|[Prestiged Tycoon] Chat Tag|$25,000|Recognition for double rebirthers, showing progress and dedication.|
+|No|Rebirther III|Complete 3rd Rebirth|[Ultimate Tycoon] + Character Skin|$100,000|Grants an exclusive skin and elite tag for advanced tycoon players.|
 
 ## Phase 5: Chat Tags & Customization
 
