@@ -5,6 +5,8 @@
 - [ ] **Basic Tycoon Framework**  
   Create the basic structure of the tycoon: a working base, droppers, and buttons to purchase. The player will be able to interact with the tycoon’s core mechanics, such as generating resources and buying upgrades.
 
+  **Note**: Buttons will be purchased using a ProximityPrompt instead of collision-based interactions. Players will need to approach the button and trigger the prompt to purchase it.
+
 - [ ] **Save System (DataStore for Tycoon Progress and Money)**  
   Implement Roblox DataStore to save the player's progress, including their money, items purchased, and current tycoon state. The save system should store and load all essential game data for a seamless experience when players rejoin.
 
