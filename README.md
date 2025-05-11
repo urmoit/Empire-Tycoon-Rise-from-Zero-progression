@@ -38,9 +38,7 @@ This is going to be the **longest Roblox tycoon game ever made**, with massive p
 
 ```bash
 Empire-Tycoon-Rise-from-Zero-progression/
-├── src/                   # Scripts and modules
-├── ui/                    # GUI components
-├── assets/                # Images, audio, effects
 ├── badges/                # Badge/achievement definitions
 ├── README.md              # Project overview and plan
+├── LICENSE
 └── plan.txt               # Development checklist and roadmap
